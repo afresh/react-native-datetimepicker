@@ -3,7 +3,7 @@
 
 >React Native DateTimePicker component for both Android and iOS, using react-native-picker and Picker.
 
-![demo](https://github.com/afresh/react-native-datetimepicker/blob/master/demo.gif ''demo'')
+![demo](./demo.gif 'demo')
 
 ## Getting started
 
